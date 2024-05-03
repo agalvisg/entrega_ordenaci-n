@@ -1,1 +1,10 @@
-# entrega_ordenaci-n
+# entrega_ordenación
+
+EJERCICIO 1 (DICOTOMÍA): 
+			1) Se encuentra en el código.
+			2) Es un algoritmo de ordenación por inserción dicotómica para encontrar el lugar que corresponde a cada elemento de la 
+			tabla T -> COMPARABLE. La complejidad de este algoritmo va en función de los elementos de la tabla.
+			3) Es el código.
+
+EJERCICIO 2 (TOPOLÓICA): 
+ 

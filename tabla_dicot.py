@@ -1,3 +1,21 @@
+"""
+Algoritmo ordenamiento_dicotomía.
+
+    # Ordena t mediante inserción dicotómica.
+
+Input: Tabla t de n elementos: Int, Float, Str.
+
+Output: Tabla t ordenada en orden ascendente.
+
+precondición: t= [t1,t2,...,tn] y ti es elemento de t.
+                'left' y 'right' son los extremos de la tabla, cuyos valores son 0 e i-1 respectivamente.
+                'mid' es el punto medio de la tabla.
+
+poscondición: t= [t1,t2,...,tn-1] y t1<=t2<=...<=tn-1.
+
+"""
+
+
 from typing import List, TypeVar
 
 T = TypeVar('T', int, float, str) #Tipos de elementos en las listas
